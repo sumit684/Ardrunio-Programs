@@ -1,4 +1,4 @@
-//Program for Command mode
+i//Program for Command mode
 #include <SoftwareSerial.h>
  
 SoftwareSerial BTserial(D4, D3); // RX, TX
